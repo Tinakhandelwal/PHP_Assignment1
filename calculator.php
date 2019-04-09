@@ -29,9 +29,9 @@
 
 ?>
 <form method="POST" action="">
-Number1:<input name="num1" value="<?php echo $num1; ?>">
+Number1:<input name="num1" type = "number" value="<?php echo $num1; ?>">
 <br>
-Number2:<input name="num2" value="<?php echo $num2; ?>">
+Number2:<input name="num2" type = "number" value="<?php echo $num2; ?>">
 <br>
 Ans:<input name="ans" value="<?php echo Calculator($num1,$num2,$ans); ?>">
 <br>
