@@ -1,5 +1,6 @@
 # PHP_Assignment1
-calculator.php file contain math operator, variables, conditional statements and function to do calculation.
+
+calculator.php file contains math operator, variables, conditional statements and function to do arithmetic calculation.
 
 
-CountryCodeNameTable.php file contain associative array and display it in tabular form.
+CountryCodeNameTable.php file contains associative array of country code and display it in tabular form.
