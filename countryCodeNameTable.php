@@ -1,6 +1,6 @@
 <?php
 //Creating an associative array.....
-$country_detail = array("India"=>91,"Greece"=>30,"Germany"=>49,"France"=>33,"China"=>86);
+$country_detail = ["India"=>91,"Greece"=>30,"Germany"=>49,"France"=>33,"China"=>86];
 echo "<h3>"."CountryCode & CountryName"."</h3>";
 function CountryTable($country_detail){
 echo "<table border = 5>";
